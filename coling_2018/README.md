@@ -7,9 +7,11 @@ The results show that the current RNN model can correctly classify (un)grammatic
 
 ## Study Includes:
 ### Task A: Subject vs. Object Relative Clauses
+
 File: Test Dataset - TaskA-SubVsObjRC.csv
-Fields inside:
-<Sentence\>, <Cases\>
+
+Fields inside:<Sentence\>, <Cases\>
+
 where <Sentence\> are the instances
 and <Cases\> indicated whether the instance is either subject extraction (given by *SubjectRC*) or an object extraction (by *ObjectRC*)
 
@@ -34,8 +36,10 @@ Includes cases of Wh-extraction where the gap position could be empty (a) or fil
 (b) *Which candidate/issue should the students discuss {him / it / something else / this candidate / this issue}
 ```
 File: Test Dataset - TaskB-Wh-extraction.csv
+
 Fields inside:
 <Sentences\>, <Type\>, <Has_Gap\>, <Level_embedding\>, <Gram\>
+
 where <Sentence\> are the instances,
 <Type\> = {WH or AFF}; WH represents Wh-Pattern and AFF indicates affirmative form of sentences.
 <Has_Gap\> = {y or n}; y indicates the presence of gap [Gap] in the sentence and n represents that the gap has been filled.  
@@ -46,10 +50,12 @@ UG - Ungrammatical cases
 
 ### Task C: Subject and Relative Island Violations
 File: Test Dataset - TaskC-Wh-islands.csv
+
 Fields inside:
 <Sentence\>, <Groups\>, <PatternType\>
 where <Sentence\> are the instances,
 <Groups\> = {NO, NS, NSp, RO, RS}
+
 where:
   * Object, OBJ, NP extraction (NO)
   * Subject, SUBJ, NP extraction (NS)
