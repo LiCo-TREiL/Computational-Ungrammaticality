@@ -1,7 +1,3 @@
 # Computational-Ungrammaticality
 
-## Coling 2018 data set
-
-```
-java xmmdlll 
-```
+## RNN Simulations of Grammaticality Judgments on Long-distance Dependencies
