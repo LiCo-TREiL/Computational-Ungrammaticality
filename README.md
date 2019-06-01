@@ -9,7 +9,7 @@
   * Citation:
   ```
   @inproceedings{Zamparelli2018,
-  	Author = {Roberto Zamparelli and Shammur Absar Chowdhury},
+  	Author = {Shammur Absar Chowdhury and Roberto Zamparelli},
   	Booktitle = {Proc. of COLING: International Conference on Computational Linguistics},
   	Title = {RNN Simulations of Grammaticality Judgments on Long-distance Dependencies},
   	Year = {2018}}
