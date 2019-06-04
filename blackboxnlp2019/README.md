@@ -52,7 +52,7 @@ File: Dataset - Wh_sub_obj.csv
 Fields inside:<Sentence\>, <Cases\>
 
 where <Sentence\> are the instances
-and <Cases\> indicated whether the instance has either gerund in subject subject position (given by *WhSubj*) or has a complex object (by *WhObj*)
+and <Cases\> indicated whether the instance are subject extraction(given by *WhSubj*) or object extraction (by *WhObj*)
 
 
 ### Relative Clause
@@ -70,7 +70,7 @@ File: Dataset - Relative_clasue_sub_obj_extraction.csv
 Fields inside:<Sentence\>, <Cases\>
 
 where <Sentence\> are the instances
-and <Cases\> indicated whether the instance has either gerund in subject subject position (given by *WhSubj*) or has a complex object (by *WhObj*)
+and <Cases\> indicated whether the instance are subject extraction(given by *RelSubj*) or object extraction (by *RelObj*)
 
 
 * Paper -- to be uploaded later.
