@@ -12,7 +12,7 @@
 	Booktitle = {In Proc. of the 2019 ACL BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP},
 	Title = {An LSTM adaptation study of (un)grammaticality},
 	Year = {2019}}
-'''
+
 
 ## Data for Coling 2018
 * Paper Title: RNN Simulations of Grammaticality Judgments on Long-distance Dependencies
@@ -28,5 +28,5 @@
   	Booktitle = {Proc. of COLING: International Conference on Computational Linguistics},
   	Title = {RNN Simulations of Grammaticality Judgments on Long-distance Dependencies},
   	Year = {2018}}
-'''
+
 
